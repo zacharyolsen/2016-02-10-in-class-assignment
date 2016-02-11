@@ -1,0 +1,38 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  color: #000988;
+  font-family: monospace;
+  font-size: 45pt;
+  text-align: center;
+  /* background-color: rgb(69,69,69); */
+}
+
+img,
+p {
+  width: 60%;
+  max-width: 800px;
+  min-width: 400px;
+  margin: 0 auto;
+}
+
+img {
+  height: auto;
+  display: block;
+}
+
+
+p {
+  margin-top: 2em;
+  font-family: "Arial", sans-serif;
+}
+
+a {
+  margin: 2em auto 4em auto;
+  display: table;
+}
