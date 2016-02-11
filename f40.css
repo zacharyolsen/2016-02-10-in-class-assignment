@@ -1,5 +1,5 @@
 body {
-  background-color: pink;
+  background-color: lightblue;
 }
 
 h1 {
@@ -35,4 +35,18 @@ p {
 a {
   margin: 2em auto 4em auto;
   display: table;
+  color: magenta;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.5em;
+  background-color: pink;
+}
+
+a:hover {
+  background-color: white;
+}
+
+a:active {
+  background-color: blue;
 }
